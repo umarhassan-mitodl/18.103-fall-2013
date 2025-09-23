@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "legacy_uid": "60572ed8-62bd-cead-a254-f0cc76d11b81",
+  "instructors": {
+    "content": [
+      "b28f05bb-f3c3-b44d-28bc-8f11fc7834cd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "33eb81b5-2351-dcb5-e9e7-4aaab3219cd0",
+    "website": "18-103-fourier-analysis-fall-2013"
+  },
+  "course_title": "Fourier Analysis",
+  "course_description": "This course continues the content covered in [_18.100 Analysis I_](/courses/18-100b-analysis-i-fall-2010/). Roughly half of the subject is devoted to the theory of the Lebesgue integral with applications to probability, and the other half to Fourier series and Fourier integrals.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.103",
+  "course_image_thumbnail": {
+    "content": "6b87ef82-6e1c-0e7a-0bc0-f0459751fb42",
+    "website": "18-103-fourier-analysis-fall-2013"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Exams"
+  ],
+  "site_uid": "a97d011d-dec5-4884-9a1c-64c1a9d88e84",
+  "site_short_id": "18.103-fall-2013",
+  "site_url_path": "courses/18-103-fourier-analysis-fall-2013",
+  "title": "Course Metadata"
+}
