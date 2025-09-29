@@ -5,6 +5,8 @@ description: This is a resource file that contains information regarding fourier
 file: /courses/18-103-fourier-analysis-fall-2013/103cd3a958675d9b5c4e405ad8ea77fd_MIT18_103F13_fseries2.pdf
 file_size: 151319
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

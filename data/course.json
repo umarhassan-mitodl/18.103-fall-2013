@@ -29,6 +29,7 @@
     "website": "18-103-fourier-analysis-fall-2013"
   },
   "course_title": "Fourier Analysis",
+  "hide_download": true,
   "course_description": "This course continues the content covered in [_18.100 Analysis I_](/courses/18-100b-analysis-i-fall-2010/). Roughly half of the subject is devoted to the theory of the Lebesgue integral with applications to probability, and the other half to Fourier series and Fourier integrals.\n",
   "department_numbers": [
     "18"
@@ -39,6 +40,7 @@
     "content": "6b87ef82-6e1c-0e7a-0bc0-f0459751fb42",
     "website": "18-103-fourier-analysis-fall-2013"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes",

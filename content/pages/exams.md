@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides review materials and practice problems for the
   midterm and final exam of the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

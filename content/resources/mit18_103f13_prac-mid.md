@@ -5,6 +5,8 @@ description: This is a resource file that contains information regarding practic
 file: /courses/18-103-fourier-analysis-fall-2013/14dc6503325ff96b225c147408682ed7_MIT18_103F13_prac-mid.pdf
 file_size: 118374
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This is a resource file that contains information regarding introdu
 file: /courses/18-103-fourier-analysis-fall-2013/520f7dd7d278c9a9af250d5ed84fbef5_MIT18_103F13_intro.pdf
 file_size: 131550
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

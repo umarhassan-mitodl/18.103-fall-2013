@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the schedule of lecture topics and readings, the
   lecture notes, and additional notes to supplement the textbook.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lecture Notes & Readings
@@ -9,7 +11,7 @@ uid: fb668941-e58b-c646-a20c-7d64a24c019b
 ---
 
 The readings are assigned in the textbook  
-Adams, Malcolm Ritchie, and Victor Guillemin. _Measure Theory and Probability_. Birkhäuse, 1996. ISBN: 9780817638849. \[Preview with {{% resource_link "48719c11-588c-492a-ab23-864771a0fca2" "Google Books" %}}\]
+Adams, Malcolm Ritchie, and Victor Guillemin. _Measure Theory and Probability_. Birkhäuse, 1996. ISBN: 9780817638849. \[Preview with [Google Books](http://books.google.com/books?id=LFgcCbJ9BccC&pg=PAfrontcover)\]
 
 Additional notes are provided for selected lectures to supplement the textbook.
 

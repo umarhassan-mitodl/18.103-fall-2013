@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides the problem sets assigned for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -8,7 +10,7 @@ title: Assignments
 uid: e888107f-6ea2-091e-b47e-13640f15c7af
 ---
 
-The notation "AG" in the following problem sets refers to problems in Adams, Malcolm Ritchie, and Victor Guillemin. _Measure Theory and Probability_. Birkhäuse, 1996. ISBN: 9780817638849. \[Preview with {{% resource_link "48719c11-588c-492a-ab23-864771a0fca2" "Google Books" %}}\]
+The notation "AG" in the following problem sets refers to problems in Adams, Malcolm Ritchie, and Victor Guillemin. _Measure Theory and Probability_. Birkhäuse, 1996. ISBN: 9780817638849. \[Preview with [Google Books](http://books.google.com/books?id=LFgcCbJ9BccC&pg=PAfrontcover)\]
 
  {{% resource_link da2c68c1-0721-f3dc-7a4c-74c84b1a14dc "Problem Set 1 (PDF)" %}}
 

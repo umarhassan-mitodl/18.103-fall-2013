@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, textbooks, assignments, exams, grading, and the
   schedule of lecture topics, exams, and assignment due dates.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -24,7 +26,7 @@ Textbooks
 
 The primary text book is Adams and Guillemin, but we will also refer to Stein and Shakarchi later in the semester.
 
-Adams, Malcolm Ritchie, and Victor Guillemin. _Measure Theory and Probability_. Birkhäuse, 1996. ISBN: 9780817638849. \[Preview with {{% resource_link "48719c11-588c-492a-ab23-864771a0fca2" "Google Books" %}}\]
+Adams, Malcolm Ritchie, and Victor Guillemin. _Measure Theory and Probability_. Birkhäuse, 1996. ISBN: 9780817638849. \[Preview with [Google Books](http://books.google.com/books?id=LFgcCbJ9BccC&pg=PAfrontcover)\]
 
 Stein, Elias M., and Rami Shakarchi. _Fourier Analysis: An Introduction_. Princeton University Press, 2003. ISBN: 9780691113845.
 
